@@ -1,1 +1,1 @@
-# DocSmell
+# Documentation Smell
