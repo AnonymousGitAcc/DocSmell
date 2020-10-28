@@ -14,11 +14,11 @@ We present 5 types of documentation smells. They are:
 
 
 ## Survey
-We conducted a survey of 21 software developers to validate these documentation smells. The survey questionnaire is available at the 'Survey' folder. 
+We conducted a survey of 21 software developers to validate these documentation smells. The survey questionnaire can be found at the 'Survey' folder. 
 
 
 ## Benchmark Dataset
-We created a benchmark dataset of 1000 documentations with these 5 types of smells. The benchmark dataset is available at the 'Benchmark Dataset' folder.
+We created a benchmark dataset of 1000 documentations with these 5 types of smells. The benchmark dataset can be found at the 'Benchmark Dataset' folder.
 
 
 ## Automatic Detection of Documentation Smells
