@@ -20,7 +20,7 @@ We created a benchmark dataset of 1000 documentations with these 5 types of smel
 
 
 ## Automatic Detection of Documentation Smells
-We employed rule-based, shallow, and deep machine learning techniques to automatically dectect these 5 types of smells.
+We employed rule-based, shallow, and deep machine learning techniques to automatically detect documentation smells.
 
 ## Codes
 Codes of our rule-based, shallow, and deep learning classifiers are available at three different subfolders under 'Codes' folder. The codes are organised in a sequential manner. All file&folder names are self-explanatory.
