@@ -1,6 +1,4 @@
 # Documentation Smell
-
-## Intro
 Documentation smells can be described as bad documentation styles that do not necessarily make a documentation incorrect but make it difficult to understand and use.
 
 
