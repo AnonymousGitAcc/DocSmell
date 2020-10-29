@@ -23,4 +23,4 @@ We created a benchmark dataset of 1000 documentations with these 5 types of smel
 We employed rule-based, shallow, and deep machine learning techniques to automatically detect documentation smells.
 
 ## Codes
-Codes of our rule-based, shallow, and deep learning classifiers are available at three different subfolders under 'Codes' folder. The codes are organised in a sequential manner. All file&folder names are self-explanatory.
+Codes of our rule-based, shallow, and deep learning classifiers are available at three different subfolders under 'Codes' folder. The codes are organised in a sequential manner. All file&folder names are self-explanatory. We have run the the deep learning classifiers (i.e., Bi-LSTM, BERT) on Google Colab. You can run the corresponding python notebooks on Google Colab by uploading them on your google drive with the benchmark dataset.   
