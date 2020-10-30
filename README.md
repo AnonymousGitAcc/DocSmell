@@ -12,15 +12,15 @@ We present 5 types of documentation smells. They are:
 
 
 ## Survey
-We conducted a survey of 21 software developers to validate these documentation smells. The survey questionnaire can be found at the 'Survey' folder. 
+We conducted a survey of 21 software developers to validate these documentation smells. The survey questionnaire and responses can be found in the 'Survey' folder. 
 
 
 ## Benchmark Dataset
-We created a benchmark dataset of 1000 documentations with these 5 types of smells. The benchmark dataset can be found at the 'Benchmark Dataset' folder.
+We created a benchmark dataset of 1000 documentations with these 5 types of smells. The benchmark dataset can be found in the 'Benchmark Dataset' folder.
 
 
 ## Automatic Detection of Documentation Smells
 We employed rule-based, shallow, and deep machine learning techniques to automatically detect documentation smells.
 
 ## Codes
-Codes of our rule-based, shallow, and deep learning classifiers are available at three different subfolders under 'Codes' folder. The codes are organised in a sequential manner. All file&folder names are self-explanatory. We have run the the deep learning classifiers (i.e., Bi-LSTM, BERT) on Google Colab. You can run the corresponding python notebooks on Google Colab by uploading them on your google drive with the benchmark dataset.   
+Codes of our rule-based, shallow, and deep learning classifiers are available at three different subfolders under the 'Codes' folder. The codes are organized in a sequential manner. All file&folder names are self-explanatory. We have run the deep learning classifiers (i.e., Bi-LSTM, BERT) on Google Colab. You can run the corresponding python notebooks on Google Colab by uploading them on your google drive with the benchmark dataset.
